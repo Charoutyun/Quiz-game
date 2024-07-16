@@ -62,7 +62,7 @@ var quizzes = [
         correct: "a",
       },
       {
-        question: " what is our mascot?",
+        question: " what is our Csuf mascot?",
         a: "Elephant",
         b: "Tiger",
         c: "Orange",
